@@ -30,3 +30,15 @@
 *.exe
 *.out
 *.app
+
+# Folder
+.vscode/
+.idea/
+cmake-build-debug/
+
+# System files
+CMakeLists.txt
+.DS_Store
+
+# Binary
+arcade
